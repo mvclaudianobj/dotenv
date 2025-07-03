@@ -15,7 +15,7 @@ Podendo acessá-las via `$_SERVER`, `getEnv()` ou `$_ENV`.
 
 Instale via composer:
 ```
-$ composer require  israel-nogueira/dotenv
+$ composer require  mvclaudianobj/dotenv
 ```
 
 E pronto, agora você pode utilizar de forma muito simples

@@ -1,9 +1,9 @@
 {
-    "name": "israel-nogueira/dotenv",
+    "name": "mvclaudianobj/dotenv",
     "description": "Gerencie de forma rápida seus arquivos .env",
     "authors": [{
-        "name": "Israel Nogueira",
-        "email": "israel@feats.com.br"
+        "name": "Marcos Claudiano",
+        "email": "marcos@fenixsol.com.br"
     }],
     "license": "MIT",
     "keywords": [ "environment", "env", "dotenv" ],
@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "IsraelNogueira\\Dotenv\\": "src/"
+            "MarcosClaudiano\\Dotenv\\": "src/"
         }
     }
 }

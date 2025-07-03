@@ -1,6 +1,6 @@
 <?php
 
-namespace IsraelNogueira\Dotenv;
+namespace MarcosClaudiano\Dotenv;
 use Exception;
 
 class env{

@@ -20,7 +20,7 @@ $ composer require  israel-nogueira/dotenv
 
 E pronto, agora você pode utilizar de forma muito simples
 ```php
-    use IsraelNogueira\Dotenv\env;
+    use MarcosClaudiano\Dotenv\env;
     include __DIR__.'/vendor/autoload.php';
 
     /*
